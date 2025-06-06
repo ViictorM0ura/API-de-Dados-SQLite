@@ -20,7 +20,7 @@ Esta API foi desenvolvida para fornecer uma interface simples para acessar dados
 ```
 bash
 /api
-  ├── api.js           # Arquivo principal da API
+  ├── index.js           # Arquivo principal da API
   ├── banco.db         # Banco de dados SQLite
   ├── node_modules/    # Dependências do projeto
   ├── package.json     # Descrição das dependências
